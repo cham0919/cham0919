@@ -23,11 +23,9 @@
 </p>
 <br/>
 <p align="center">
- [![Blog Badge](https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white&link=https://github.com/cham0919)](https://github.com/cham0919)
- 
- [![Git Badge](https://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=Bloglovin&logoColor=white&link=https://velog.io/@cham)](https://velog.io/@cham)
- 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckadl0118@gmail.com)](mailto:ckadl0118@gmail.com)
+ <a href="https://github.com/cham0919"><img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white&link=https://github.com/cham0919"/></a>
+ <a href="https://velog.io/@cham"><img src="https://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=Bloglovin&logoColor=white&link=https://velog.io/@cham"/></a>
+ <a href="ckadl0118@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ckadl0118@gmail.com"/></a> 
 </p>
 
 
