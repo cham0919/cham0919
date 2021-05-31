@@ -1,6 +1,9 @@
-<p align="center">
-## Hi there 👋
-</p>
+
+ 
+ ##Hi there 👋
+
+ ---
+
 
 <p align="center">
 🛠 Tech Stack 🛠
