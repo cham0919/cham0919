@@ -28,8 +28,9 @@
  <a href="ckadl0118@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ckadl0118@gmail.com"/></a> 
 </p>
 
-
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cham0919&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!--
 **cham0919/cham0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
